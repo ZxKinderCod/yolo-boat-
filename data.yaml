@@ -1,0 +1,8 @@
+path: c:/robocamp/robocamp_for_student/dataset
+train: images/train
+val: images/val
+
+names:
+  0: bouy_merah
+  1: bouy_hijau
+  2: obstacle

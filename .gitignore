@@ -1,0 +1,5 @@
+models/
+bola.pt
+*.pt
+venv/
+*.mp4
